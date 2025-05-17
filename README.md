@@ -25,6 +25,14 @@ This assignment was completed as part of the Algorithms and Data Structures (MSC
 
 3.  Run the Python program:
 
-    ```bash
-    python main.py
-    ```
+    - To sort a custom list of integers, provide the numbers as command-line arguments separated by spaces:
+
+      ```bash
+      python main.py 10 4 7 1 9
+      ```
+
+    - To run with the default list, simply run without arguments:
+
+      ```bash
+      python main.py
+      ```
